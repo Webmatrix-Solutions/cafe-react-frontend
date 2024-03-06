@@ -644,7 +644,7 @@ header.main-header .header-sticky.active {
 
 .hero {
 	min-height: 100vh;
-	background: url('/public/images/hero-bg-img.jpg') no-repeat center center;
+	background: url('../images/hero-bg-img.jpg') no-repeat center center;
 	background-size: cover;
 	position: relative;
 	display: flex;
@@ -773,7 +773,7 @@ header.main-header .header-sticky.active {
 	top: 50%;
 	right: 0;
 	bottom: auto;
-	background: url('../public//images/home-about-bg.png') no-repeat;
+	background: url('../images/home-about-bg.png') no-repeat;
 	width: 465px;
 	height: 610px;
 	transform: translateY(-50%);
@@ -895,7 +895,7 @@ header.main-header .header-sticky.active {
 	top: auto;
 	left: 0;
 	bottom: 0;
-	background: url("../public/images/why-choose-us-bg.png") no-repeat;
+	background: url("../images/why-choose-us-bg.png") no-repeat;
 	background-size: cover;
 	width: 300px;
 	height: 500px;
@@ -965,7 +965,7 @@ header.main-header .header-sticky.active {
 
 .most-popular-section ,
 .menu-page-section {
-	background: url('../public/images/most-popular-dises-bg.png') no-repeat bottom right;
+	background: url('../images/most-popular-dises-bg.png') no-repeat bottom right;
 	background-size: 500px;
 	padding: 100px 0 75px;
 }
@@ -1073,7 +1073,7 @@ header.main-header .header-sticky.active {
 .food-pricing::before {
 	content: '';
 	position: absolute;	
-	background: url("../public/images/food-pricing-bg.png") no-repeat center left;
+	background: url("../images/food-pricing-bg.png") no-repeat center left;
 	background-size: cover;
 	width: 170px;
 	height: 757px;
@@ -1138,7 +1138,7 @@ header.main-header .header-sticky.active {
 }
 
 .food-bar-1 {
-	background: url("../public/images/food-bar-1.png") no-repeat center center;
+	background: url("../images/food-bar-1.png") no-repeat center center;
 	background-size: cover;
 	background-color: var(--dark-background);
 	margin-bottom: 23px;
@@ -1192,7 +1192,7 @@ header.main-header .header-sticky.active {
 }
 
 .food-bar-2 {
-	background: url("../public/images/food-bar-2.png") no-repeat center center;
+	background: url("../images/food-bar-2.png") no-repeat center center;
 	background-size: cover;
 	background-color: var(--dark-background);
 	border-radius: 30px;
@@ -1203,13 +1203,13 @@ header.main-header .header-sticky.active {
 /****************************************/
 
 .restaurant-inforamtion {
-	background: url('../public/images/restaurants-wrap-bg.png') no-repeat center right;
+	background: url('../images/restaurants-wrap-bg.png') no-repeat center right;
 	background-size: auto;
 	padding: 100px 0 70px;
 }
 
 .restaurant-info-box {
-	background: url('../public/images/restaurants-bg.png') no-repeat center right;
+	background: url('../images/restaurants-bg.png') no-repeat center right;
 	background-size: cover;
 	background-color: var(--dark-background);
 	display: flex;
@@ -1330,7 +1330,7 @@ header.main-header .header-sticky.active {
 	top: auto;
 	left: 0;
 	bottom: 0;
-	background: url('../public/images/testimonial-bg.png') no-repeat bottom left;
+	background: url('../images/testimonial-bg.png') no-repeat bottom left;
 	background-size: cover;
 	width: 214px;
 	height: 531px;
@@ -1431,7 +1431,7 @@ header.main-header .header-sticky.active {
 
 .events-post {
 	padding: 100px 0 70px;
-	background: url("../public/images/upcoming-events-bg.png") no-repeat center right;
+	background: url("../images/upcoming-events-bg.png") no-repeat center right;
 	background-size: auto;
 }
 
@@ -1587,7 +1587,7 @@ header.main-header .header-sticky.active {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: url("../public/images/footer-bg.png") no-repeat center center;
+	background: url("../images/footer-bg.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1822,7 +1822,7 @@ header.main-header .header-sticky.active {
 
 .page-header {
 	position: relative;
-	background: url("../public/images/page-header-bg.jpg") no-repeat center center;
+	background: url("../images/page-header-bg.jpg") no-repeat center center;
 	background-size: cover;
 	padding: 280px 0 120px;
 	margin-top: -117px;
@@ -1914,7 +1914,7 @@ header.main-header .header-sticky.active {
 }
 
 .always-quality {
-	background: url(../public/images/most-popular-dises-bg.png) no-repeat bottom right;
+	background: url(../images/most-popular-dises-bg.png) no-repeat bottom right;
     background-size: 500px;
     padding: 100px 0 70px;
 	position: relative;
@@ -1926,7 +1926,7 @@ header.main-header .header-sticky.active {
 	top: auto;
 	left: 0;
 	bottom: 0;
-	background: url("../public/images/always-quality-bg.png") no-repeat;
+	background: url("../images/always-quality-bg.png") no-repeat;
 	background-size: cover;
 	width: 200px;
 	height: 115px;
@@ -2087,7 +2087,7 @@ header.main-header .header-sticky.active {
 
 .blog-detail-page {
 	padding: 100px 0;
-	background: url("../public/images/post-single-bg.png") no-repeat bottom right;
+	background: url("../images/post-single-bg.png") no-repeat bottom right;
 	background-size: auto;
 }	
 
@@ -2153,7 +2153,7 @@ header.main-header .header-sticky.active {
 	top: 30px;
 	left: 30px;
 	bottom: auto;
-	background: url('../public/images/double-quotes.png') no-repeat center center;
+	background: url('../images/double-quotes.png') no-repeat center center;
 	background-size: cover;
 	width: 50px;
 	height: 36px;
@@ -2431,7 +2431,7 @@ header.main-header .header-sticky.active {
 /*********************************/
 
 .faq-section {
-	background: url('../public/images/faq-bg.png') no-repeat bottom right;
+	background: url('../images/faq-bg.png') no-repeat bottom right;
 	background-size: 250px;
 	padding: 100px 0;
 }
@@ -2600,7 +2600,7 @@ header.main-header .header-sticky.active {
 	top: auto;
 	right: 0;
 	bottom: 0;
-	background: url("../public/images/contact-detail-bg.png") no-repeat center center;
+	background: url("../images/contact-detail-bg.png") no-repeat center center;
 	background-size: cover;
 	width: 141px;
 	height: 153px;
