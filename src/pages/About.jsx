@@ -1,14 +1,20 @@
 import React from 'react'
-import Layout from '../Layout';
-import Hero from '../components/Hero';
+import Header from '../components/Header';
+import Hero from '../components/sub-pages/Hero';
+import Footer from '../components/Footer';
+import About from '../components/About';
+import Gallery from '../components/Gallery';
 
-function About() {
+function Abouts() {
   return (
     <>
-      <Layout />
-      <Hero />
+      <Header />
+      <Hero pageTitle="About Us"/>
+      <About />
+      <Gallery />
+      <Footer />
     </>
   )
 }
 
-export default About
+export default Abouts

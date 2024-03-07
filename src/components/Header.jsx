@@ -1,9 +1,9 @@
 import React from 'react'
-import './App.css';
+import '../App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
-import MobileMenu from './components/MobileMenu';
+import MobileMenu from './MobileMenu';
 
 
 

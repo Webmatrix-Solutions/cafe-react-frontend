@@ -49,7 +49,7 @@ function Hero() {
                         </div>
                     </div>
                     <div className="down-arrow">
-                        <a href="#home-about">
+                        <a href="#why-choose-us">
                             <img src="images/icon-down-arrow.svg" alt="" />
                         </a>
                     </div>
